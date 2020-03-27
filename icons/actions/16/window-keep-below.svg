@@ -1,1 +1,14 @@
-go-down-skip.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#232629;
+        }</style>
+ <g class="ColorScheme-Text" fill="currentColor">
+  <path d="m3.541 12.07v1h9.873v-1z"/>
+  <path d="m8.5156 7.9609v1h4.8789v-1z"/>
+  <path d="m8.4727 4.1172v1h4.9629v-1z"/>
+  <path d="m3.4316 2.1465v8.8281h1v-8.8281z"/>
+  <path d="m6.2227 7.9355a0.50005 0.50005 0 0 0-0.33984 0.16016l-2.3125 2.418a0.50007 0.50007 0 1 0 0.72266 0.69141l2.3125-2.4199a0.50005 0.50005 0 0 0-0.38281-0.84961z"/>
+  <path d="m1.625 7.9355a0.50005 0.50005 0 0 0-0.36719 0.85156l2.3125 2.418a0.50007 0.50007 0 1 0 0.72266-0.69141l-2.3125-2.418a0.50005 0.50005 0 0 0-0.35547-0.16016z"/>
+ </g>
+</svg>

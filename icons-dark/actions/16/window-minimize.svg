@@ -1,1 +1,11 @@
-go-down.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <style
+        type="text/css"
+        id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#eff0f1;
+        }
+    </style>
+ <path d="m6.6093 6.0923h2.7813c0.30483 0 0.55023 0.2454 0.55023 0.55023v2.7149c0 0.30483-0.2454 0.55023-0.55023 0.55023h-2.7813c-0.30483 0-0.55023-0.2454-0.55023-0.55023v-2.7149c0-0.30483 0.2454-0.55023 0.55023-0.55023z"  class="ColorScheme-Text" fill="currentColor"/>
+</svg>
