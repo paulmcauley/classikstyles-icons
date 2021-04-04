@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
     <style
         type="text/css"
         id="current-color-scheme">
@@ -7,5 +6,5 @@
             color:#eff0f1;
         }
     </style>
- <path d="m7.4277 3.916a0.50005 0.50005 0 0 0-0.5 0.5v2.6035h-2.0352c-0.51962 1e-7 -0.95312 0.4335-0.95312 0.95312v9.7285c0 0.51962 0.4335 0.95312 0.95312 0.95312h9.9844c0.51962 0 0.95312-0.4335 0.95312-0.95312v-2.5684h2.3027a0.50005 0.50005 0 0 0 0.5-0.5l0.01563-10.217a0.50005 0.50005 0 0 0-0.5-0.5zm0.5 1h9.7207l-0.01563 9.2168h-1.8027v-6.1602c0-0.51963-0.4335-0.95312-0.95312-0.95312h-6.9492zm-2.9883 3.1035h9.8906v9.6348h-9.8906z" class="ColorScheme-Text" fill="currentColor"/>
+    <path d="M11 3.293L3.293 11 11 18.707 18.707 11zm0 1.414L17.293 11 11 17.293 4.707 11z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>
