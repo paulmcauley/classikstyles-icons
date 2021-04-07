@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Classik with square highlight Icons is a freedesktop.org compatible icon theme. It's a fork of the KDE Breeze Icons theme with modified titlebar buttons to match the Classik button icon style with Square button highlight style.
+Classik with square highlight Icons is a freedesktop.org compatible icon theme subset. It inherits the KDE Breeze Icons theme, except has modified titlebar buttons to match the Classik button icon style with Square button highlight style.
 
 ## Guidelines
 
