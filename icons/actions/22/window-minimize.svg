@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <style
-        type="text/css"
-        id="current-color-scheme">
-        .ColorScheme-Text {
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#232629;
-        }
-    </style>
- <path d="m8.8815 8.3769h4.237c0.30483 0 0.55024 0.2454 0.55024 0.55023v4.1457c0 0.30483-0.2454 0.55024-0.55024 0.55024h-4.237c-0.30483 0-0.55023-0.2454-0.55023-0.55024v-4.1457c0-0.30483 0.2454-0.55023 0.55023-0.55023z" class="ColorScheme-Text" fill="currentColor"/>
+        }</style>
+ <path class="ColorScheme-Text" d="m8.817 8.25h4.366c0.31411 0 0.567 0.25727 0.567 0.57685v4.3463c0 0.31958-0.25287 0.57686-0.567 0.57686h-4.366c-0.31411 0-0.56698-0.25727-0.56698-0.57686v-4.3463c0-0.31958 0.25287-0.57685 0.56698-0.57685z" fill="currentColor"/>
 </svg>
