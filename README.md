@@ -1,10 +1,10 @@
-# Classik-with-circle-highlight Icons
+# Redmond-with-circle-highlight Icons
 
 ## Introduction
 
-Classik-with-circle-highlight Icons is a freedesktop.org compatible icon theme subset. It inherits the KDE Breeze Icons theme, except has modified titlebar buttons to match the Classik button icon style with Circle button highlight style.
+Redmond-with-circle-highlight Icons is a freedesktop.org compatible icon theme subset. It inherits the KDE Breeze Icons theme, except has modified titlebar buttons to match the Redmond button icon style with Circle button highlight style.
 
-This is designed to match https://github.com/paulmcauley/classikstyles or https://www.pling.com/p/1367676/ 
+This is designed to match https://github.com/paulmcauley/classikstyles
 
 ## Guidelines
 
