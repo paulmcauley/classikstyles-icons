@@ -1,8 +1,11 @@
+# Classik-with-square-highlight Icons
 # Kite with square highlight Icons
 
 ## Introduction
 
-Kite with square highlight Icons is a freedesktop.org compatible icon theme. It's a fork of the KDE Breeze Icons theme with modified titlebar buttons to match the Kite button icon style with Square button highlight style.
+Kite-with-square-highlight Icons is a freedesktop.org compatible icon theme subset. It inherits the KDE Breeze Icons theme, except has modified titlebar buttons to match the Kite button icon style with Square button highlight style.
+
+This is designed to match https://github.com/paulmcauley/classikstyles
 
 ## Guidelines
 
