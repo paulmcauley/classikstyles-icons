@@ -1,4 +1,3 @@
-# Classik-with-square-highlight Icons
 # Kite with square highlight Icons
 
 ## Introduction
