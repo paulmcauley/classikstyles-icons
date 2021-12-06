@@ -4,7 +4,7 @@
 
 Kite-with-square-highlight Icons is a freedesktop.org compatible icon theme subset. It inherits the KDE Breeze Icons theme, except has modified titlebar buttons to match the Kite button icon style with Square button highlight style.
 
-This is designed to match https://github.com/paulmcauley/classikstyles
+This is designed to match https://github.com/paulmcauley/classik
 
 ## Guidelines
 
