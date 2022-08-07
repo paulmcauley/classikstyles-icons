@@ -2,5 +2,5 @@
  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#232629;
         }</style>
- <path class="ColorScheme-Text" d="m3.5556 3a0.55561 0.55561 0 0 0-0.55556 0.55556v8.8889a0.55561 0.55561 0 0 0 0.55556 0.55556h8.8889a0.55561 0.55561 0 0 0 0.55556-0.55556v-8.8889a0.55561 0.55561 0 0 0-0.55556-0.55556zm0.55556 1.1111h7.7778v7.7778h-7.7778z" fill="currentColor"/>
+ <path d="m3.5 3a0.50005 0.50005 0 0 0-0.5 0.5v9a0.50005 0.50005 0 0 0 0.5 0.5h9a0.50005 0.50005 0 0 0 0.5-0.5v-9a0.50005 0.50005 0 0 0-0.5-0.5h-9zm0.5 1h8v8h-8v-8z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

@@ -2,5 +2,6 @@
  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#eff0f1;
         }</style>
- <path class="ColorScheme-Text" d="m8.817 8.25h4.366c0.31411 0 0.567 0.25727 0.567 0.57685v4.3463c0 0.31958-0.25287 0.57686-0.567 0.57686h-4.366c-0.31411 0-0.56698-0.25727-0.56698-0.57686v-4.3463c0-0.31958 0.25287-0.57685 0.56698-0.57685z" fill="currentColor"/>
+ <path d="m8.75 8-0.75 0.75v4.5l0.75 0.75h4.5l0.75-0.75v-4.5l-0.75-0.75h-4.5zm0.25 1h4v4h-4v-4z" style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".75"/>
+ <path d="m9 9h4v4h-4z" style="fill:currentColor" class="ColorScheme-Text" fill-opacity=".55"/>
 </svg>
