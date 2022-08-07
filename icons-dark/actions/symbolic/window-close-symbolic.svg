@@ -1,1 +1,6 @@
-../16/window-close.svg
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#eff0f1;
+        }</style>
+ <path d="m3.7054 3-0.70538 0.70898 4.2927 4.291-4.2927 4.2812 0.70538 0.70898 4.2946-4.2832 4.2946 4.293 0.70538-0.70898-4.2927-4.291 4.2927-4.2812-0.70538-0.70898-4.2946 4.2832z"  class="ColorScheme-Text" fill="currentColor"/>
+</svg>

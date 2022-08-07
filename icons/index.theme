@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Breeze with square highlight (based on Breeze)
 
-Comment=Oxygen/Breeze by Paul McAuley, based on Breeze by the KDE VDG
+Comment=Breeze by Paul McAuley, based on Breeze by the KDE VDG
 
 DisplayDepth=32
 
@@ -29,7 +29,7 @@ KDE-Extensions=.svg
 ########## Directories
 ########## ordered by category and alphabetically
 
-Directories=actions/16,actions/22,actions/24,actions/32
+Directories=actions/16,actions/22,actions/24,actions/32,actions/symbolic
 ScaledDirectories=actions/16@2x,actions/16@3x,actions/22@2x,actions/22@3x,actions/24@2x,actions/24@3x,actions/32@2x,actions/32@3x
 
 ########## Actions
@@ -121,5 +121,14 @@ Type=Scalable
 MinSize=32
 MaxSize=256
 
+
+# Gnome symbolic icons
+
+[actions/symbolic]
+Context=Actions
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 ########## EOF
