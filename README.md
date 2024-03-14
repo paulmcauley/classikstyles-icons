@@ -1,4 +1,4 @@
-THIS REPOSITORY IS NOW ARCHIVED
+THIS REPOSITORY IS NOW ARCHIVED  
 Klassy from version 5.0 onwards auto-generates "Klassy" and "Klassy Dark" icons.
 
 # Klassy-with-square-highlight Icons
